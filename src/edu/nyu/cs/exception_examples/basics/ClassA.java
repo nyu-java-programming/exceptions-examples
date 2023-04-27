@@ -1,4 +1,4 @@
-package edu.nyu.csedu.nyu.cs.exception_examples.basics;
+package edu.nyu.cs.exception_examples.basics;
 
 import java.io.File;
 import java.io.FileNotFoundException;
